@@ -5,3 +5,4 @@
 * git commit - takes changes to files from staging area to repository
 * git diff - shows changes between commits
 * git log - lists commits made to repository
+* git checkout -b <branchname> - creates branch in the repository
